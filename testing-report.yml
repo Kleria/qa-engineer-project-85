@@ -1,0 +1,52 @@
+---
+- summary: |
+    Регистрация через Discord
+  status: pass
+
+  - summary: |
+    Регистрация через GitHub
+  status: pass
+
+  - summary: |
+    Регистрация через почту и пароль
+  status: pass
+
+  - summary: |
+    Польщователь не может зарегистрироваться на уже использованную почту
+  status: pass
+
+  - summary: |
+    Валидация никнейма при регистрации
+  status: pass
+
+  - summary: |
+    Валидация почты при регистрации
+  status: pass
+
+  - summary: |
+    Валидация пароля при регистрации
+  status: pass
+
+  - summary: |
+    Валидация подтверждения пароля при регистрации
+  status: pass
+
+  - summary: |
+    Вход с ранее зарегистрированным аккаунтом на Discord
+  status: pass
+
+  - summary: |
+    Вход с ранее зарегистрированным аккаунтом на GitHub
+  status: pass
+
+  - summary: |
+    Вход с ранее зарегистрированным аккаунтом
+  status: pass
+
+  - summary: |
+    Пользователь не может войти на сайт с неверным паролем
+  status: pass
+
+  - summary: |
+    Пользователь может восстановить пароль
+  status: fail
